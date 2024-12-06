@@ -1,4 +1,4 @@
-👋 Hello! I'm Bruna, a junior UX designer that loves creating intuitive and user-centered designs. <br><br>🌟 About Me<br>🎨 Designing for people, not pixels.<br>💻 Learning HTML, CSS and JavaScript.<br>📚 Building my skills in front-end to collaborate with developers and create wonderful experiences to the users.<br><br>🚀 Aspiring to become a Product Designer.<br>
+👋 Hello! I'm Bruna, a junior UX designer that loves creating intuitive and user-centered designs. <br><br>🎨 Designing for people, not pixels.<br>💻 Learning HTML, CSS and JavaScript.<br>📚 Building my skills in front-end to collaborate with developers and create wonderful experiences to the users.<br><br>🚀 Aspiring to become a Product Designer.<br>
 
 ## 🌐 Contributions Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunaLaine&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
